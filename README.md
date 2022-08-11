@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aviral01mishra
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ..Microsoft Azure .
+- 🌱 I’m currently learning ..MERN.Full Stack .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .aviralsul2000@gmail.com ..
 
